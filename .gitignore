@@ -64,3 +64,4 @@ typings/
 *.tsbuildinfo
 
 #src/config/config.ts
+#la anterior se comento
